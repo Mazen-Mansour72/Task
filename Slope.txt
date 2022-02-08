@@ -1,0 +1,5 @@
+A derivative of a function f(x), is a also a function, usually written as f′(x) or df/dx. Functions give a value for every (admissible) value of x. So the derivative has a value for every (admissible) value of x.
+
+The interpretation of the value of the derivative for a specific value of x, say at x0, is equal to the slope of the tangent line at the point (x0,f(x0)) on the graph of f(x) and measures the velocity at which this function ascends (a positive slope) or descends (a negative slope).
+
+Sometimes the value of this derivative function at a specific x0 is also called the derivative and is therefore equal to the slope of the function at (x0,f(x0)). But it would be better practice to speak of the derivative at a certain value of x.
