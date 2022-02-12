@@ -1,0 +1,7 @@
+Types of statical test
+1.  T-test
+2. Z-test
+3.chi-square test 
+4. Anova test
+5.binomial test 
+6.one sample medium test

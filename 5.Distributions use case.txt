@@ -1,0 +1,24 @@
+1.Bernoulli distribution:
+There are real-life situations that involve noting if a specific event occurs or not. Such events are recorded as a success or a failure. E.g. Some of the examples that explain binary outcome scenarios involve calculating the probability of:
+Success of a medical treatment
+Interviewed person being a female
+Student result(Pass/fail) in an exam
+Transmittance of a disease (transmitted/not transmitted)
+
+2.Uniform Distribution:
+A deck of cards has a uniform distribution. This is because an individual has an equal chance of drawing a spade, a heart, a club, or a diamond. Another example of a uniform distribution is when a coin is tossed. The likelihood of getting a tail or head is the same.
+
+3.Binomial Distribution
+Many instances of binomial distributions can be found in real life. For example, if a new drug is introduced to cure a disease, it either cures the disease (it’s successful) or it doesn’t cure the disease (it’s a failure). If you purchase a lottery ticket, you’re either going to win money, or you aren’t. Basically, anything you can think of that can only be a success or a failure can be represented by a binomial distribution.
+
+4.Normal Distribution
+Height of the population is the example of normal distribution. Most of the people in a specific population are of average height. The number of people taller and shorter than the average height people is almost equal, and a very small number of people are either extremely tall or extremely short.
+
+5.Poisson Distibution
+Number of Arrivals at a Restaurant.
+Number of Calls per Hour at a Call Center.
+Number of Books Sold per Week.
+Average Number of Storms in a City.
+
+6.Exponential distributions
+Exponential distributions are commonly used in calculations of product reliability, or the length of time a product lasts

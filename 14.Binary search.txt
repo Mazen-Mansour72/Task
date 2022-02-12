@@ -1,0 +1,13 @@
+A binary search is an advanced type of search algorithm that finds and fetches data from a sorted list of items. Its core working principle involves dividing the data in the list to half until the required value is located and displayed to the user in the search result. Binary search is commonly known as a half-interval search or a logarithmic search.
+
+Example:
+[6,8,17,21,24,45,59,63,76,89]
+Find 59
+Middle = (i+r)/2
+
+You have an array of 10 digits, and the element 59 needs to be found.
+All the elements are marked with the index from 0 – 9. Now, the middle of the array is calculated. To do so, you take the left and rightmost values of the index and divide them by 2. The result is 4.5, but we take the floor value. Hence the middle is 4.
+The algorithm drops all the elements from the middle (4) to the lowest bound because 59 is greater than 24, and now the array is left with 5 elements only.
+Now, 59 is greater than 45 and less than 63. The middle is 7. Hence the right index value becomes middle – 1, which equals 6, and the left index value remains the same as before, which is 5.
+At this point, you know that 59 comes after 45. Hence, the left index, which is 5, becomes mid as well.
+These iterations continue until the array is reduced to only one element, or the item to be found becomes the middle of the array.

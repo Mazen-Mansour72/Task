@@ -1,0 +1,3 @@
+A relational database is structured, meaning the data is organized in tables. Many times, the data within these tables have relationships with one another, or dependencies.
+
+A non relational database is document-oriented, meaning, all information gets stored in more of a laundry list order.

@@ -1,0 +1,19 @@
+Advancing Machine and Human Reasoning (AMHR) Lab
+ARGUS Cybersecurity Lab
+Biorobotics Lab
+Computing Education Research & Evolutionary Algorithms Lab (CEREAL)
+Computer Vision and Pattern Recognition Group
+Cryptographic Engineering and Hardware Security Lab
+Cyber Identity and Behavior Research (CiBeR) Lab
+Distributed Systems Group 
+Intelligent Systems Lab (ISL)
+Neuro-Machine Interaction Lab (NMIL)
+Robot Perception and Action Lab (RPAL) 
+Social Computing Research Lab
+Software Security and Programming Languages Lab
+Ubiquitous Sensing Lab
+
+
+
+
+https://www.usf.edu/engineering/cse/research/research-labs.aspx

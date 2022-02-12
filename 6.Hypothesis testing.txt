@@ -1,0 +1,20 @@
+In statistics, hypothesis tests are used to test whether or not some hypothesis about a population parameter is true.
+
+Peppermint Essential Oil
+Essential oils are becoming more and more popular. Chamomile, lavender, and ylang-ylang are commonly touted as anxiety remedies. Perhaps you'd like to test the healing powers of peppermint essential oil. Your hypothesis might go something like this:
+
+Null hypothesis - Peppermint essential oil has no effect on the pangs of anxiety.
+Alternative hypothesis - Peppermint essential oil alleviates the pangs of anxiety.
+Significance level - The significance level is 0.25 (allowing for a better shot at proving your alternative hypothesis).
+P-value - The p-value is calculated as 0.05.
+Conclusion - After providing one group with peppermint oil and the other with a placebo, you gauge the difference between the two based on self-reported levels of anxiety. Based on your calculations, the difference between the two groups is statistically significant with a p-value of 0.05, well below the defined alpha of 0.25. You conclude that your study supports the alternative hypothesis that peppermint essential oil can alleviate the pangs of anxiety.
+
+
+Vitamin C
+Is it true that vitamin C has the ability to cure or prevent the common cold? Or is it just a myth? There's nothing like an in-depth experiment to get to the bottom of it all. A potential hypothesis test could look something like this:
+
+Null hypothesis - Children who take vitamin C are no less likely to become ill during flu season.
+Alternative hypothesis - Children who take vitamin C are less likely to become ill during flu season.
+Significance level - The significance level is 0.05.
+P-value - The p-value is calculated to be 0.20.
+Conclusion - After providing one group with vitamin C during flu season and the other with a placebo, you record whether or not participants got sick by the end of flu season. After conducting your statistical analysis on the results, you determine a p-value of 0.20. That is above the desired significance level of 0.05, and thus you fail to reject the null hypothesis. Based on your experiment, there is no support for the (alternative) hypothesis that vitamin C can prevent colds.

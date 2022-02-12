@@ -1,0 +1,22 @@
+7 V’s of Big Data
+
+1.Volume
+This is the main characteristic of big data. The term volume here defines big data as “BIG”.
+
+2.Variety
+Here variety means types of data sources. big data can be of various types – structured, semi-structured, and unstructured.
+
+3.Velocity
+Velocity here refers to how fast the data can be processed and accessed. 
+
+4.Variability
+Variability is different from the variety. Variability refers to the data which keeps on changing constantly.
+
+5.Veracity
+If your data is not accurate, it is of no use, and here comes the concept of Veracity. It is all about making sure the data gathered by you is accurate and also keeping the bad data away from your systems.
+
+6.Visualization
+Visualization here refers to how you can present your data to the management for decision-making purposes.
+
+7.Value
+Value is known as the end game in big data. Every user needs to understand that the organization needs some value after efforts are made and resources are spent on the above mentioned V’s.

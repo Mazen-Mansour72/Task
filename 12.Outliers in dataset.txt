@@ -1,0 +1,18 @@
+Drop an outlier if:
+You know that it’s wrong:
+For example, if you have a really good sense of what range the data should fall in, like people’s ages, you can safely drop values that are outside of that range.
+
+You have a lot of data:
+so your sample won’t be hurt by dropping a questionable outlier.
+
+You can go back and recollect or verify the questionable data point.
+                          ----------------------------------------------------
+Don’t drop an outlier if:
+Your results are critical,
+so even small changes will matter a lot. For example, you can feel better about dropping outliers about people’s favorite TV shows, not about the temperatures at which airplane seals fail.
+
+There are a lot of outliers.
+Outliers are rare by definition. If, for example, 30% of your data is outliers, then it actually means that there’s something interesting going on with your data that you need to look further into.
+
+
+https://humansofdata.atlan.com/2018/03/when-delete-outliers-dataset/

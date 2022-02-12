@@ -1,0 +1,29 @@
+List of Data Science Tools:
+SAS
+Apache Hadoop
+Tableau
+TensorFlow
+BigML
+Knime 
+RapidMiner 
+Excel 
+Apache Flink 
+PowerBI
+DataRobot
+Apache Spark 
+Sap Hana 
+MongoDB
+Python
+Trifacta
+Minitab
+R
+Apache Kafka 
+QlikView 
+MicroStrategy
+Google Analytics
+Julia 
+SPSS
+MATLAB
+
+
+https://www.jigsawacademy.com/top-analytics-tools-every-data-scientist-must-learn/
