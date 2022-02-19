@@ -1,0 +1,30 @@
+A non-relational database is a database that does not use the tabular schema of rows and columns found in most traditional database systems. Instead, non-relational databases use a storage model that is optimized for the specific requirements of the type of data being stored.
+
+They have the ability to store large amounts of data with little structure.
+
+They provide scalability and flexibility to meet changing business requirements.
+
+They provide schema-free or schema-on-read options.
+
+They have the ability to capture all types of data “Big Data” including unstructured data.
+
+They are document oriented.
+
+NoSQL or non-relational databases examples:MongoDB, Apache Cassandra, Redis, Couchbase and Apache HBase.
+
+They are best for Rapid Application Development. NoSQL is the best selection for flexible data storage with little to no structure limitations.
+
+They provide flexible data model with the ability to easily store and combine data of any structure without the need to modify a schema.
+
+Use cases:
+Fraud detection and identity authentication.
+Inventory and catalog management.
+Personalization, recommendations and customer experience.
+Internet of things (IoT) and sensor data.
+Financial services and payments.
+Messaging.
+Logistics and asset management.
+
+
+
+https://www.datastax.com/blog/sql-vs-nosql-whats-the-difference

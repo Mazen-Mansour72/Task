@@ -1,0 +1,3 @@
+Using sample method
+
+https://www.geeksforgeeks.org/how-to-randomly-select-rows-from-pandas-dataframe/
